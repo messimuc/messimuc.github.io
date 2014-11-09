@@ -1,3 +1,1 @@
-messimuc.github.io
-==================
-nur Website rumgespiele
+Zu erreichen unter: http://freifunk-muenchen.de
