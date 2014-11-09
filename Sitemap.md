@@ -4,4 +4,4 @@ title: Sitemap
 permalink: /Sitemap/
 ---
 
-{{ site.pages }}
+{{ site.pages.title }}
