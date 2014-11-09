@@ -8,7 +8,7 @@ Unser Ziel: Der Aufbau und Betrieb eines freien und unabhängigen WLAN Netzes in
 
 <div class="note info">
   <h5>Kann ich das einfach benutzen ?</h5>
-  <p><img class="alignleft src="http://ffm.booja.de/wp-content/uploads/2014/10/wlan.png" alt="wlan" width="300" height="116" />
+  <p><img class="alignleft" src="http://ffm.booja.de/wp-content/uploads/2014/10/wlan.png" alt="wlan" width="300" height="116" />
   <p>
 	JA ! Kannst du, darfst du, sollst du, da kommt auch Internet raus !
   </p>
